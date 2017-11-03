@@ -6,7 +6,7 @@
 ### Diagramas de Barras
 
 
-```R
+```
 library(vcd)
 head(Arthritis)
 ```
